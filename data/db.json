@@ -1,0 +1,324 @@
+{
+  "products": [
+    {
+      "id": 20001,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "overview": "Embark on an epic journey in the vast open world of Hyrule. Discover hidden secrets and fight against formidable enemies.",
+      "long_description": "The Legend of Zelda: Breath of the Wild redefines the classic adventure genre with a vast open world, complex puzzles, and challenging combat. Set in the kingdom of Hyrule, the game follows the story of Link as he wakes from a long slumber to defeat the evil Calamity Ganon. Explore diverse landscapes, gather resources, and craft items to aid you on your quest. The game's nonlinear gameplay allows for unprecedented freedom in how you approach your objectives.",
+      "price": 59,
+      "poster": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_801/b_white/f_auto/q_auto/ncom/software/switch/70010000063714/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
+      "image_local": "/assets/images/20001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 14,
+      "best_seller": true
+    },
+    {
+      "id": 20002,
+      "name": "Cyberpunk 2077",
+      "overview": "Explore the dystopian world of Night City, filled with futuristic technology and a gripping storyline.",
+      "long_description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour, and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. Customize your character’s cyberware, skillset, and playstyle, and explore a vast city where the choices you make shape the story and the world around you.",
+      "price": 49,
+      "poster": "https://wallpapers.com/images/hd/cyberpunk-2077-futuristic-city-mpkxyamwbd740l3h.webp",
+      "image_local": "/assets/images/20002.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 70,
+      "best_seller": false
+    },
+    {
+      "id": 20003,
+      "name": "Red Dead Redemption 2",
+      "overview": "Experience the wild west in this epic tale of life in America at the dawn of the modern age.",
+      "long_description": "Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience. After a robbery goes wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland of America in order to survive.",
+      "price": 59,
+      "poster": "https://wallpapers.com/images/high/android-red-dead-redemption-2-background-1080-x-1920-fkybp81a0f60duwo.webp",
+      "image_local": "/assets/images/20003.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 110,
+      "best_seller": true
+    },
+    {
+      "id": 20004,
+      "name": "The Last of Us Part II",
+      "overview": "A story-driven game set in a post-apocalyptic world where survival is key.",
+      "long_description": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community of survivors has allowed them peace and stability, despite the constant threat of the infected and other, more desperate survivors. When a violent event disrupts that peace, Ellie embarks on a relentless journey to carry out justice and find closure. As she hunts those responsible one by one, she is confronted with the devastating physical and emotional repercussions of her actions.",
+      "price": 59,
+      "poster": "https://wallpapers.com/images/high/convention-center-in-the-last-of-us-4k-em7z84l3fvx4c9p8.webp",
+      "image_local": "/assets/images/20004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 20,
+      "best_seller": true
+    },
+    {
+      "id": 20005,
+      "name": "Halo Infinite",
+      "overview": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+      "long_description": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and explore the massive scale of the Halo ring. Halo Infinite offers the most expansive, open-ended, and adventure-filled Halo experience yet. Featuring a beautiful open world with a compelling story and new characters, Halo Infinite is perfect for both new players and veterans alike.",
+      "price": 59,
+      "poster": "https://wallpapers.com/images/high/halo-infinite-noble-defender-54mpsbnmoebjj3uu.webp",
+      "image_local": "/assets/images/20005.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 70,
+      "best_seller": false
+    },
+    {
+      "id": 20006,
+      "name": "Spider-Man: Miles Morales",
+      "overview": "Experience the rise of Miles Morales as he masters new powers to become his own Spider-Man.",
+      "long_description": "In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as the new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. The game features explosive action, breathtaking visuals, and an all-new story.",
+      "price": 49,
+      "poster": "https://wallpapers.com/images/high/spider-man-miles-morales-ps5-rr7ug8mcbt94bk0i.webp",
+      "image_local": "/assets/images/20006.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 45,
+      "best_seller": true
+    },
+    {
+      "id": 20007,
+      "name": "God of War: Ragnarok",
+      "overview": "Join Kratos and Atreus on a mythical journey to prevent the end of the world.",
+      "long_description": "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go. Witness the changing dynamic of their relationship as they prepare for war; Atreus thirsts for knowledge to help him understand the prophecy of ‘Loki’, as Kratos struggles to break free of his past and be the father his son needs. The journey will take them deep into realms of Norse myth, facing powerful enemies and breathtaking landscapes, as they seek answers and allies in preparation for Ragnarök.",
+      "price": 69,
+      "poster": "https://wallpaper.forfun.com/fetch/9b/9bd51398de6a679307dc75ef50776e4d.jpeg?h=900&r=0.5",
+      "image_local": "/assets/images/20007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 80,
+      "best_seller": true
+    },
+    {
+      "id": 20008,
+      "name": "Resident Evil Village",
+      "overview": "Survival horror reaches new heights in the latest chapter of the Resident Evil series.",
+      "long_description": "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village. Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again. Ethan must once again enter the world of nightmares to rescue his kidnapped daughter.",
+      "price": 20,
+      "poster": "https://wallpapers.com/images/high/resident-evil-village-1920-x-1080-wallpaper-mn99lj0iasobj10g.webp",
+      "image_local": "/assets/images/20008.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 50,
+      "best_seller": false
+    },
+    {
+      "id": 20009,
+      "name": "Elden Ring",
+      "overview": "An expansive world filled with peril and adventure awaits in Elden Ring.",
+      "long_description": "Elden Ring, developed by FromSoftware, is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R. R. Martin. Traverse the breathtaking world on foot or on horseback, alone or online with other players, and fully immerse yourself in the grassy plains, suffocating swamps, spiraling mountains, foreboding castles, and other sites of grandeur on a scale never seen before in a FromSoftware title. Unravel the mysteries of the Elden Ring’s power and become the Elden Lord in the Lands Between.",
+      "price": 25,
+      "poster": "https://wallpapers.com/images/featured-full/elden-ring-pictures-6r85th0gnhifsqd0.jpg",
+      "image_local": "/assets/images/20009.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 85,
+      "best_seller": true
+    },
+    {
+      "id": 20010,
+      "name": "Horizon Forbidden West",
+      "overview": "Join Aloy as she braves the Forbidden West – a majestic but dangerous frontier.",
+      "long_description": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon. The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why. It’s up to Aloy to uncover the secrets behind these threats and restore order and balance to the world.",
+      "price": 200,
+      "poster": "https://wallpapers.com/images/high/horizon-forbidden-west-usuwgipggrrhsagr.webp",
+      "image_local": "/assets/images/20010.avif",
+      "rating": 1,
+      "in_stock": true,
+      "size": 90,
+      "best_seller": true
+    },
+    {
+      "id": 20011,
+      "name": "Final Fantasy VII Remake",
+      "overview": "The classic RPG returns with stunning new graphics and an updated combat system.",
+      "long_description": "Final Fantasy VII Remake is a reimagining of the iconic original with unforgettable characters, a mind-blowing story, and epic battles. The world has fallen under the control of the Shinra Electric Power Company, a shadowy corporation controlling the planet’s very life force as mako energy. In the city of Midgar, an anti-Shinra organization known as Avalanche has stepped up their resistance. Cloud Strife, a former member of Shinra’s elite SOLDIER unit now turned mercenary, lends his aid to the group, unaware of the epic consequences that await him.",
+      "price": 59,
+      "poster": "https://wallpapers.com/images/hd/final-fantasy-vii-remake-4k-ultra-hd-wallpaper-background-m5u06ivctihnxdj6.webp",
+      "image_local": "/assets/images/20011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 60,
+      "best_seller": false
+    },
+    {
+      "id": 20012,
+      "name": "Ghost of Tsushima",
+      "overview": "Experience the haunting beauty and stark violence of feudal Japan in this open-world adventure.",
+      "long_description": "In the late 13th century, the Mongol empire has laid waste to entire nations along their campaign to conquer the East. Tsushima Island is all that stands between mainland Japan and a massive Mongol invasion fleet led by the ruthless and cunning general, Khotun Khan. As the island burns in the wake of the first wave of the Mongol assault, samurai warrior Jin Sakai stands as one of the last surviving members of his clan. He is resolved to do whatever it takes, at any cost, to protect his people and reclaim his home.",
+      "price": 92,
+      "poster": "https://wallpapers.com/images/high/ghost-of-tsushima-fight-scene-ggz4umo2galgm9bb.webp",
+      "image_local": "/assets/images/20012.avif",
+      "rating": 3,
+      "in_stock": false,
+      "size": 50,
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 20001,
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "overview": "Embark on an epic journey in the vast open world of Hyrule. Discover hidden secrets and fight against formidable enemies.",
+      "long_description": "The Legend of Zelda: Breath of the Wild redefines the classic adventure genre with a vast open world, complex puzzles, and challenging combat. Set in the kingdom of Hyrule, the game follows the story of Link as he wakes from a long slumber to defeat the evil Calamity Ganon. Explore diverse landscapes, gather resources, and craft items to aid you on your quest. The game's nonlinear gameplay allows for unprecedented freedom in how you approach your objectives.",
+      "price": 59,
+      "poster": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_801/b_white/f_auto/q_auto/ncom/software/switch/70010000063714/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
+      "image_local": "/assets/images/20001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 14,
+      "best_seller": true
+    },
+    {
+      "id": 20007,
+      "name": "God of War: Ragnarok",
+      "overview": "Join Kratos and Atreus on a mythical journey to prevent the end of the world.",
+      "long_description": "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go. Witness the changing dynamic of their relationship as they prepare for war; Atreus thirsts for knowledge to help him understand the prophecy of ‘Loki’, as Kratos struggles to break free of his past and be the father his son needs. The journey will take them deep into realms of Norse myth, facing powerful enemies and breathtaking landscapes, as they seek answers and allies in preparation for Ragnarök.",
+      "price": 69,
+      "poster": "https://wallpaper.forfun.com/fetch/9b/9bd51398de6a679307dc75ef50776e4d.jpeg?h=900&r=0.5",
+      "image_local": "/assets/images/20007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 80,
+      "best_seller": true
+    },
+    {
+      "id": 20009,
+      "name": "Elden Ring",
+      "overview": "An expansive world filled with peril and adventure awaits in Elden Ring.",
+      "long_description": "Elden Ring, developed by FromSoftware, is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R. R. Martin. Traverse the breathtaking world on foot or on horseback, alone or online with other players, and fully immerse yourself in the grassy plains, suffocating swamps, spiraling mountains, foreboding castles, and other sites of grandeur on a scale never seen before in a FromSoftware title. Unravel the mysteries of the Elden Ring’s power and become the Elden Lord in the Lands Between.",
+      "price": 69,
+      "poster": "https://wallpapers.com/images/featured-full/elden-ring-pictures-6r85th0gnhifsqd0.jpg",
+      "image_local": "/assets/images/20009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 85,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "CartList": [
+        {
+          "id": 20001,
+          "name": "The Legend of Zelda: Breath of the Wild",
+          "overview": "Embark on an epic journey in the vast open world of Hyrule. Discover hidden secrets and fight against formidable enemies.",
+          "long_description": "The Legend of Zelda: Breath of the Wild redefines the classic adventure genre with a vast open world, complex puzzles, and challenging combat. Set in the kingdom of Hyrule, the game follows the story of Link as he wakes from a long slumber to defeat the evil Calamity Ganon. Explore diverse landscapes, gather resources, and craft items to aid you on your quest. The game's nonlinear gameplay allows for unprecedented freedom in how you approach your objectives.",
+          "price": 59,
+          "poster": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_801/b_white/f_auto/q_auto/ncom/software/switch/70010000063714/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
+          "image_local": "/assets/images/20001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 14,
+          "best_seller": true
+        },
+        {
+          "id": 20002,
+          "name": "Cyberpunk 2077",
+          "overview": "Explore the dystopian world of Night City, filled with futuristic technology and a gripping storyline.",
+          "long_description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour, and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. Customize your character’s cyberware, skillset, and playstyle, and explore a vast city where the choices you make shape the story and the world around you.",
+          "price": 49,
+          "poster": "https://wallpapers.com/images/hd/cyberpunk-2077-futuristic-city-mpkxyamwbd740l3h.webp",
+          "image_local": "/assets/images/20002.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 70,
+          "best_seller": false
+        }
+      ],
+      "Amount_paid": 108,
+      "quantity": 2,
+      "user": {
+        "name": "apoorva",
+        "email": "apoorva@example.com",
+        "id": 15
+      },
+      "id": 1
+    },
+    {
+      "CartList": [
+        {
+          "id": 20009,
+          "name": "Elden Ring",
+          "overview": "An expansive world filled with peril and adventure awaits in Elden Ring.",
+          "long_description": "Elden Ring, developed by FromSoftware, is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R. R. Martin. Traverse the breathtaking world on foot or on horseback, alone or online with other players, and fully immerse yourself in the grassy plains, suffocating swamps, spiraling mountains, foreboding castles, and other sites of grandeur on a scale never seen before in a FromSoftware title. Unravel the mysteries of the Elden Ring’s power and become the Elden Lord in the Lands Between.",
+          "price": 69,
+          "poster": "https://wallpapers.com/images/featured-full/elden-ring-pictures-6r85th0gnhifsqd0.jpg",
+          "image_local": "/assets/images/20009.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 85,
+          "best_seller": true
+        }
+      ],
+      "Amount_paid": 69,
+      "quantity": 1,
+      "user": {
+        "name": "apoorva",
+        "email": "priyesh@example.com",
+        "id": 16
+      },
+      "id": 2
+    },
+    {
+      "CartList": [
+        {
+          "id": 20009,
+          "name": "Elden Ring",
+          "overview": "An expansive world filled with peril and adventure awaits in Elden Ring.",
+          "long_description": "Elden Ring, developed by FromSoftware, is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R. R. Martin. Traverse the breathtaking world on foot or on horseback, alone or online with other players, and fully immerse yourself in the grassy plains, suffocating swamps, spiraling mountains, foreboding castles, and other sites of grandeur on a scale never seen before in a FromSoftware title. Unravel the mysteries of the Elden Ring’s power and become the Elden Lord in the Lands Between.",
+          "price": 69,
+          "poster": "https://wallpapers.com/images/featured-full/elden-ring-pictures-6r85th0gnhifsqd0.jpg",
+          "image_local": "/assets/images/20009.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 85,
+          "best_seller": true
+        },
+        {
+          "id": 20007,
+          "name": "God of War: Ragnarok",
+          "overview": "Join Kratos and Atreus on a mythical journey to prevent the end of the world.",
+          "long_description": "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go. Witness the changing dynamic of their relationship as they prepare for war; Atreus thirsts for knowledge to help him understand the prophecy of ‘Loki’, as Kratos struggles to break free of his past and be the father his son needs. The journey will take them deep into realms of Norse myth, facing powerful enemies and breathtaking landscapes, as they seek answers and allies in preparation for Ragnarök.",
+          "price": 69,
+          "poster": "https://wallpaper.forfun.com/fetch/9b/9bd51398de6a679307dc75ef50776e4d.jpeg?h=900&r=0.5",
+          "image_local": "/assets/images/20007.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 80,
+          "best_seller": true
+        }
+      ],
+      "Amount_paid": 138,
+      "quantity": 2,
+      "user": {
+        "name": "naman",
+        "email": "naman@example.com",
+        "id": 14
+      },
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "naman@example.com",
+      "password": "$2a$10$lbhdXu.HNFv5I18eT1R4fOPqHKtahsNanMGSPynVZX47pX2v4h2pS",
+      "name": "naman",
+      "id": 14
+    },
+    {
+      "email": "apoorva@example.com",
+      "password": "$2a$10$YFcJKOomrPm0WXDz77ievOpsj0042o70kdAQrHXnAnb2BoylY9Hlq",
+      "name": "apoorva",
+      "id": 15
+    },
+    {
+      "email": "priyesh@example.com",
+      "password": "$2a$10$hXwhV50DhjT5gjVfFnNSxuZfc05S6pHGGpOrxUkpI2SI/JeC.7tQa",
+      "name": "apoorva",
+      "id": 16
+    }
+  ]
+}
